@@ -1,0 +1,13 @@
+SUBJECT,CREDITS,GRADE
+
+PSI,10,A1
+OtherSubjectSemester1,10,A1
+OtherSubjectSemester1,10,A1
+OtherSubjectSemester1,10,A1
+
+OtherSubjectSemester2,10,A1
+OtherSubjectSemester2,10,A1
+OtherSubjectSemester2,10,A1
+OtherSubjectSemester2,10,A1
+
+IP4,40,A1
